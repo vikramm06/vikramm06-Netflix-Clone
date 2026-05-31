@@ -58,4 +58,4 @@ A fully functional Netflix clone built using modern web technologies. This proje
 - **API Verification:** All TMDB endpoints were verified and tested using **Postman** collections to ensure data structure integrity before integration.
 
 ---
-<p align="center"><b>Developed by <a href="https://github.com/Lakshmi759">Lakshmi</a></b></p>
+<p align="center"><b>Developed by <a href="https://github.com/Lakshmi759">vikram</a></b></p>
